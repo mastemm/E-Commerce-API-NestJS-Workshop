@@ -68,7 +68,7 @@ model Users {
 
 - [x] 19. Migrer le schéma vers la base de données.
 - [x] 20. Créer le service `Prisma`.
-- [ ] 21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
+- [x] 21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
 
 </details>
 <details open><summary><h2>Création des utilisateurs</h2></summary>
